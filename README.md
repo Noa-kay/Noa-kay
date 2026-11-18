@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Noa 🌸
 
-<!--
-**Noa-kay/Noa-kay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Curious about code, building things, and still wondering why it works.*
 
-Here are some ideas to get you started:
+I enjoy learning by building — from full-stack applications and APIs to exploring chip design and verification.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+**Languages**  
+C# · Java · JavaScript · TypeScript · SQL · HTML · CSS · Verilog
+
+**Development**  
+ASP.NET Core · Entity Framework Core · Spring Boot · Node.js · Express.js · Angular · React · Material UI
+
+**Data & tools**  
+MongoDB · H2 · RabbitMQ · Git · Postman · Jira · Unix
+
+**Also explored**  
+UVM · REST APIs · JWT · Object-oriented programming · Data structures · Algorithms · Design patterns
+
+### A few projects
+
+- **Fynx** — A collaborative full-stack application built with Angular and Spring Boot.
+- **Seminar-Site** — A student profile component developed for an institutional system.
+- **Recipes Server** — A REST API project built with Node.js, Express.js, and MongoDB.
+- **Chip Design & Verification Practicum** — Hands-on experience with Verilog and UVM.
+
+I bring analytical thinking, creative problem-solving, and an eye for design to the things I build.
+
+[Portfolio](https://noa-kadish-portfolio.ai.studio/) · [LinkedIn](https://www.linkedin.com/in/noa-kadish/)
