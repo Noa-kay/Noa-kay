@@ -6,11 +6,27 @@ I enjoy learning by building and exploring new technologies — from full-stack 
 
 ---
 
-| Languages & Frameworks | Design & Software |
-| :--- | :--- |
-| HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM | Microsoft Office · Canva · Photoshop |
-| **Tools & Infrastructure** | **Operating Systems** |
-| Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation | macOS · Windows · Linux |
+### Languages & Frameworks
+
+HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM
+
+---
+
+### Tools & Infrastructure
+
+Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation
+
+---
+
+### Design & Software
+
+Microsoft Office · Canva · Photoshop
+
+---
+
+### Operating Systems
+
+macOS · Windows · Linux
 
 ---
 
