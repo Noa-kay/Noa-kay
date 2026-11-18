@@ -4,7 +4,7 @@
 
 I enjoy learning by building, exploring new technologies, and bringing creative ideas to life.
 
-### Technologies
+### Tech Stack
 
 **Languages**  
 C# · Java · JavaScript · TypeScript · SQL · HTML · CSS · Verilog
