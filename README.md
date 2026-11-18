@@ -2,22 +2,24 @@
 
 *Curious about code, building things, and still wondering why it works.*
 
-I enjoy learning by building, exploring new technologies, and bringing creative ideas to life.
+I enjoy learning by building and exploring new technologies — from full-stack development to chip design and verification.
 
 ### Tech Stack
 
-**Languages**  
-C# · Java · JavaScript · TypeScript · SQL · HTML · CSS · Verilog
+**Languages & Frameworks**
 
-**Frameworks & development**  
-ASP.NET Core · Entity Framework Core · Spring Boot · Node.js · Express.js · Angular · React · Material UI
+`HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `Angular` `React` `Java` `C#` `Python` `SQL` `Spring Boot` `.NET Core` `H2` `MongoDB` `AWS` `Unix` `Verilog` `UVM`
 
-**Data & tools**  
-MongoDB · H2 · RabbitMQ · Git · Postman · Jira · Unix
+**Tools & Infrastructure**
 
-**Areas of interest**  
-Full-stack development · REST APIs · Object-oriented programming · Data structures & algorithms · Design patterns · UVM
+`Git & GitHub` `Salesforce` `Algorithms` `Data Structures` `SOC Fundamentals` `DevOps Fundamentals` `Docker` `Copilot` `Claude` `Cursor` `Chip Design & Verification` `Logic Simulation`
 
-I bring analytical thinking, creativity, and an eye for design to the things I build.
+**Design & Software**
+
+`Microsoft Office` `Canva` `Photoshop`
+
+**Operating Systems**
+
+`macOS` `Windows` `Linux`
 
 [Portfolio](https://noa-kadish-portfolio.ai.studio/) · [LinkedIn](https://www.linkedin.com/in/noa-kadish/)
