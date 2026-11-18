@@ -4,22 +4,30 @@
 
 I enjoy learning by building and exploring new technologies — from full-stack development to chip design and verification.
 
-### Tech Stack
+---
 
-**Languages & Frameworks**
+### Languages & Frameworks
 
-`HTML` `CSS` `JavaScript` `TypeScript` `Node.js` `Angular` `React` `Java` `C#` `Python` `SQL` `Spring Boot` `.NET Core` `H2` `MongoDB` `AWS` `Unix` `Verilog` `UVM`
+HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM
 
-**Tools & Infrastructure**
+---
 
-`Git & GitHub` `Salesforce` `Algorithms` `Data Structures` `SOC Fundamentals` `DevOps Fundamentals` `Docker` `Copilot` `Claude` `Cursor` `Chip Design & Verification` `Logic Simulation`
+### Tools & Infrastructure
 
-**Design & Software**
+Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation
 
-`Microsoft Office` `Canva` `Photoshop`
+---
 
-**Operating Systems**
+### Design & Software
 
-`macOS` `Windows` `Linux`
+Microsoft Office · Canva · Photoshop
+
+---
+
+### Operating Systems
+
+macOS · Windows · Linux
+
+---
 
 [Portfolio](https://noa-kadish-portfolio.ai.studio/) · [LinkedIn](https://www.linkedin.com/in/noa-kadish/)
