@@ -6,16 +6,40 @@ I enjoy learning by building and exploring new technologies — from full-stack 
 
 ---
 
-<div dir="rtl">
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-| | |
-|---|---|
-| **שפות ופריימוורקים** | **כלים ותשתיות** |
-| HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM | Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation |
-| **עיצוב ותוכנות** | **מערכות הפעלה** |
-| Microsoft Office · Canva · Photoshop | macOS · Windows · Linux |
+### Languages & Frameworks
 
-</div>
+HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM
+
+    </td>
+    <td width="50%" valign="top">
+
+### Tools & Infrastructure
+
+Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### Design & Software
+
+Microsoft Office · Canva · Photoshop
+
+    </td>
+    <td width="50%" valign="top">
+
+### Operating Systems
+
+macOS · Windows · Linux
+
+    </td>
+  </tr>
+</table>
 
 ---
 
