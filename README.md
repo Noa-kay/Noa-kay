@@ -16,9 +16,9 @@ Unix · Verilog · UVM&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ems
 
 ---
 
-### Design & Software                             |  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;              Operating Systems |
+### Design & Software                             |  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Operating Systems |
 
-Microsoft Office · Canva · Photoshop                 &emsp;&emsp;&emsp;&emsp;&emsp;               macOS · Windows · Linux
+Microsoft Office · Canva · Photoshop                 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;              macOS · Windows · Linux
 
 ---
 
