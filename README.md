@@ -1,10 +1,7 @@
 # Hi, I'm Noa 🌸
 
-*Curious about code, building things, and still wondering why it works.*
-
 I enjoy learning by building and exploring new technologies — from full-stack development to chip design and verification.
 
----
 
 ### Languages & Frameworks |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tools & Infrastructure |
 
