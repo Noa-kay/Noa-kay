@@ -6,21 +6,19 @@ I enjoy learning by building and exploring new technologies — from full-stack 
 
 ---
 
-### Languages & Frameworks
+### Languages & Frameworks |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Tools & Infrastructure |
 
-HTML · CSS · JavaScript · TypeScript · Node.js · Angular · React · Java · C# · Python · SQL · Spring Boot · .NET Core · H2 · MongoDB · AWS · Unix · Verilog · UVM
-
----
-
-### Tools & Infrastructure
-
-Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals · DevOps Fundamentals · Docker · Copilot · Claude · Cursor · Chip Design & Verification · Logic Simulation
+HTML · CSS · JavaScript · TypeScript · Node.js&emsp;&emsp;&emsp;&ensp;&ensp;&nbsp;Git & GitHub · Salesforce · Algorithms<br>
+Angular · React · Java · C# · Python · SQL&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&emsp;&emsp;&ensp;&ensp;&nbsp;&nbsp; Data Structures · SOC Fundamentals<br>
+Spring Boot · .NET Core · H2 · MongoDB · AWS&emsp;&ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevOps Fundamentals · Docker · Copilot<br>
+Unix · Verilog · UVM&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Claude · Cursor · Chip Design & Verification<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Logic Simulation
 
 ---
 
-### Design & Software                             |                  ### Operating Systems
+### Design & Software                             |  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;              Operating Systems |
 
-Microsoft Office · Canva · Photoshop              |                  macOS · Windows · Linux
+Microsoft Office · Canva · Photoshop                 &emsp;&emsp;&emsp;&emsp;&emsp;               macOS · Windows · Linux
 
 ---
 
