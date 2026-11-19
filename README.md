@@ -18,15 +18,9 @@ Git & GitHub · Salesforce · Algorithms · Data Structures · SOC Fundamentals 
 
 ---
 
-### Design & Software
+### Design & Software                             |                  ### Operating Systems
 
-Microsoft Office · Canva · Photoshop
-
----
-
-### Operating Systems
-
-macOS · Windows · Linux
+Microsoft Office · Canva · Photoshop              |                  macOS · Windows · Linux
 
 ---
 
