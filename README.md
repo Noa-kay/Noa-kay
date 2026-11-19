@@ -14,7 +14,6 @@ Spring Boot · .NET Core · H2 · MongoDB · AWS&emsp;&ensp;&ensp;&ensp;&nbsp;&n
 Unix · Verilog · UVM&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;Claude · Cursor · Chip Design & Verification<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;Logic Simulation
 
----
 
 ### Design & Software                             |  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Operating Systems |
 
